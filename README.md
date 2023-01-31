@@ -11,7 +11,7 @@ I'm a Second year university student in Madrid, who loves coding in the meantime
          <img alt="stars" title="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/SeroviICAI?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-### Languages and programs I have worked with:
+### Languages and programs I have worked with (most to least):
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Matlab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-plain.svg" />
