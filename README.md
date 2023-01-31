@@ -28,3 +28,7 @@ I'm a Second year university student in Madrid, who loves coding in the meantime
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
+
+### Languages used in Github repositories:
+
+[![Languages used in repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=SeroviICAI&layout=compact)](https://github.com/SeroviICAI/github-readme-stats)
