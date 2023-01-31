@@ -31,4 +31,4 @@ I'm a Second year university student in Madrid, who loves coding in the meantime
 
 ### Languages used in Github repositories:
 
-![Languages used in repositories](https://github-readme-stats.vercel.app/api?username=SeroviICAI&theme=radical)
+![Languages used in repositories](https://github-readme-stats.vercel.app/api?username=SeroviICAI&theme=dracula)
