@@ -2,7 +2,7 @@
 
 **`Student of Mathematics Engineering and Artificial Intelligence`**
 
-I'm a Second year university student in Madrid, who loves coding in the meantime. I have worked with multiple programming languages such as Python, HTML, CSS, JavaScript, C, Matlab, SQL and some I probably have already forgotten. I use Python on almost a daily basis: analyzing data, creating reports, ML models, mathematic algorithms and so much more. Many repositories of mine contain projects I planned on my own and built from ground up, others where from college. I love digital design, 3D art and getting to know new people.
+I'm a Second year university student in Madrid, who loves coding in the meantime. I have worked with multiple programming languages such as Python, HTML, CSS, JavaScript, C, Matlab, SQL and some I probably have already forgotten. I use Python on almost a daily basis: analyzing data, creating reports, ML models, mathematic algorithms and so much more. Many repositories of mine contain projects I planned on my own and built from ground up, others were from college. I love digital design, 3D art and getting to know new people.
 
   <p align="left"> 
       <a href="https://github.com/SeroviICAI?tab=followers">
