@@ -30,4 +30,7 @@ I'm a Second year university student in Madrid, who loves coding in the meantime
 <br />
 
 ### My GitHub Stats:
-![Languages used in repositories](https://github-readme-stats.vercel.app/api?username=SeroviICAI)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=SeroviICAI)
+
+Don't forget to check also [my gists](https://gist.github.com/SeroviICAI)
