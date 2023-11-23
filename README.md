@@ -29,9 +29,4 @@ I'm a Second year university student in Madrid, who loves coding in the meantime
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
 
-
-### My GitHub Stats:
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SeroviICAI)
-
 Don't forget to check also [my gists](https://gist.github.com/SeroviICAI)
